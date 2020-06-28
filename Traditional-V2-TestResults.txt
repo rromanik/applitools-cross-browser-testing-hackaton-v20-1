@@ -1,0 +1,504 @@
+Task: 1| Test Name: Search input field is displayed                        | DOM Id: DIV__customsear__41 | Browser: chrome        | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: Top Navigation menu is displayed                       | DOM Id: DIV__mainmenu__15   | Browser: chrome        | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: Side-bar Filters pane is displayed                     | DOM Id: filter_col          | Browser: chrome        | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: Product grid is displayed                              | DOM Id: product_grid        | Browser: chrome        | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: Filters button is NOT displayed                        | DOM Id: A__openfilter__207  | Browser: chrome        | Viewport: (1200, 700) | Device: Laptop| Status: FAIL 
+Task: 1| Test Name: Grid View button is displayed                          | DOM Id: I__tiviewgrid__203  | Browser: chrome        | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: List View button is displayed                          | DOM Id: I__tiviewlist__205  | Browser: chrome        | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: Product image for item #0 is displayed                 | DOM Id: product_1           | Browser: chrome        | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: Name for item #0 is displayed                          | DOM Id: H3____219           | Browser: chrome        | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: 'Add to favorites' icon for item #0 is NOT displayed   | DOM Id: A__tooltip__225     | Browser: chrome        | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: 'Add to compare' icon for item #0 is NOT displayed     | DOM Id: A__tooltip__229     | Browser: chrome        | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: 'Add to cart' icon for item #0 is NOT displayed        | DOM Id: A__tooltip__233     | Browser: chrome        | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: Product image for item #1 is displayed                 | DOM Id: product_3           | Browser: chrome        | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: Name for item #1 is displayed                          | DOM Id: H3____244           | Browser: chrome        | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: 'Add to favorites' icon for item #1 is NOT displayed   | DOM Id: A__tooltip__250     | Browser: chrome        | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: 'Add to compare' icon for item #1 is NOT displayed     | DOM Id: A__tooltip__254     | Browser: chrome        | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: 'Add to cart' icon for item #1 is NOT displayed        | DOM Id: A__tooltip__258     | Browser: chrome        | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: Product image for item #2 is displayed                 | DOM Id: product_4           | Browser: chrome        | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: Name for item #2 is displayed                          | DOM Id: H3____267           | Browser: chrome        | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: 'Add to favorites' icon for item #2 is NOT displayed   | DOM Id: A__tooltip__272     | Browser: chrome        | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: 'Add to compare' icon for item #2 is NOT displayed     | DOM Id: A__tooltip__276     | Browser: chrome        | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: 'Add to cart' icon for item #2 is NOT displayed        | DOM Id: A__tooltip__280     | Browser: chrome        | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: Product image for item #3 is displayed                 | DOM Id: product_5           | Browser: chrome        | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: Name for item #3 is displayed                          | DOM Id: H3____289           | Browser: chrome        | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: 'Add to favorites' icon for item #3 is NOT displayed   | DOM Id: A__tooltip__294     | Browser: chrome        | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: 'Add to compare' icon for item #3 is NOT displayed     | DOM Id: A__tooltip__298     | Browser: chrome        | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: 'Add to cart' icon for item #3 is NOT displayed        | DOM Id: A__tooltip__302     | Browser: chrome        | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: Product image for item #4 is displayed                 | DOM Id: product_6           | Browser: chrome        | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: Name for item #4 is displayed                          | DOM Id: H3____311           | Browser: chrome        | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: 'Add to favorites' icon for item #4 is NOT displayed   | DOM Id: A__tooltip__316     | Browser: chrome        | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: 'Add to compare' icon for item #4 is NOT displayed     | DOM Id: A__tooltip__320     | Browser: chrome        | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: 'Add to cart' icon for item #4 is NOT displayed        | DOM Id: A__tooltip__324     | Browser: chrome        | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: Product image for item #5 is displayed                 | DOM Id: product_7           | Browser: chrome        | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: Name for item #5 is displayed                          | DOM Id: H3____333           | Browser: chrome        | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: 'Add to favorites' icon for item #5 is NOT displayed   | DOM Id: A__tooltip__338     | Browser: chrome        | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: 'Add to compare' icon for item #5 is NOT displayed     | DOM Id: A__tooltip__342     | Browser: chrome        | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: 'Add to cart' icon for item #5 is NOT displayed        | DOM Id: A__tooltip__346     | Browser: chrome        | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: Product image for item #6 is displayed                 | DOM Id: product_8           | Browser: chrome        | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: Name for item #6 is displayed                          | DOM Id: H3____355           | Browser: chrome        | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: 'Add to favorites' icon for item #6 is NOT displayed   | DOM Id: A__tooltip__360     | Browser: chrome        | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: 'Add to compare' icon for item #6 is NOT displayed     | DOM Id: A__tooltip__364     | Browser: chrome        | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: 'Add to cart' icon for item #6 is NOT displayed        | DOM Id: A__tooltip__368     | Browser: chrome        | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: Product image for item #7 is displayed                 | DOM Id: product_2           | Browser: chrome        | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: Name for item #7 is displayed                          | DOM Id: H3____379           | Browser: chrome        | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: 'Add to favorites' icon for item #7 is NOT displayed   | DOM Id: A__tooltip__385     | Browser: chrome        | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: 'Add to compare' icon for item #7 is NOT displayed     | DOM Id: A__tooltip__389     | Browser: chrome        | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: 'Add to cart' icon for item #7 is NOT displayed        | DOM Id: A__tooltip__393     | Browser: chrome        | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: Product image for item #8 is displayed                 | DOM Id: product_9           | Browser: chrome        | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: Name for item #8 is displayed                          | DOM Id: H3____402           | Browser: chrome        | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: 'Add to favorites' icon for item #8 is NOT displayed   | DOM Id: A__tooltip__407     | Browser: chrome        | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: 'Add to compare' icon for item #8 is NOT displayed     | DOM Id: A__tooltip__411     | Browser: chrome        | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: 'Add to cart' icon for item #8 is NOT displayed        | DOM Id: A__tooltip__415     | Browser: chrome        | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: 'QUICK LINKS' section is displayed                     | DOM Id: collapse_1          | Browser: chrome        | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: 'CONTACTS' section is displayed                        | DOM Id: collapse_3          | Browser: chrome        | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: 'Your email' input field is displayed                  | DOM Id: email_newsletter    | Browser: chrome        | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: Search input field is displayed                        | DOM Id: DIV__customsear__41 | Browser: firefox       | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: Top Navigation menu is displayed                       | DOM Id: DIV__mainmenu__15   | Browser: firefox       | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: Side-bar Filters pane is displayed                     | DOM Id: filter_col          | Browser: firefox       | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: Product grid is displayed                              | DOM Id: product_grid        | Browser: firefox       | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: Filters button is NOT displayed                        | DOM Id: A__openfilter__207  | Browser: firefox       | Viewport: (1200, 700) | Device: Laptop| Status: FAIL 
+Task: 1| Test Name: Grid View button is displayed                          | DOM Id: I__tiviewgrid__203  | Browser: firefox       | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: List View button is displayed                          | DOM Id: I__tiviewlist__205  | Browser: firefox       | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: Product image for item #0 is displayed                 | DOM Id: product_1           | Browser: firefox       | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: Name for item #0 is displayed                          | DOM Id: H3____219           | Browser: firefox       | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: 'Add to favorites' icon for item #0 is NOT displayed   | DOM Id: A__tooltip__225     | Browser: firefox       | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: 'Add to compare' icon for item #0 is NOT displayed     | DOM Id: A__tooltip__229     | Browser: firefox       | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: 'Add to cart' icon for item #0 is NOT displayed        | DOM Id: A__tooltip__233     | Browser: firefox       | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: Product image for item #1 is displayed                 | DOM Id: product_3           | Browser: firefox       | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: Name for item #1 is displayed                          | DOM Id: H3____244           | Browser: firefox       | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: 'Add to favorites' icon for item #1 is NOT displayed   | DOM Id: A__tooltip__250     | Browser: firefox       | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: 'Add to compare' icon for item #1 is NOT displayed     | DOM Id: A__tooltip__254     | Browser: firefox       | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: 'Add to cart' icon for item #1 is NOT displayed        | DOM Id: A__tooltip__258     | Browser: firefox       | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: Product image for item #2 is displayed                 | DOM Id: product_4           | Browser: firefox       | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: Name for item #2 is displayed                          | DOM Id: H3____267           | Browser: firefox       | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: 'Add to favorites' icon for item #2 is NOT displayed   | DOM Id: A__tooltip__272     | Browser: firefox       | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: 'Add to compare' icon for item #2 is NOT displayed     | DOM Id: A__tooltip__276     | Browser: firefox       | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: 'Add to cart' icon for item #2 is NOT displayed        | DOM Id: A__tooltip__280     | Browser: firefox       | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: Product image for item #3 is displayed                 | DOM Id: product_5           | Browser: firefox       | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: Name for item #3 is displayed                          | DOM Id: H3____289           | Browser: firefox       | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: 'Add to favorites' icon for item #3 is NOT displayed   | DOM Id: A__tooltip__294     | Browser: firefox       | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: 'Add to compare' icon for item #3 is NOT displayed     | DOM Id: A__tooltip__298     | Browser: firefox       | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: 'Add to cart' icon for item #3 is NOT displayed        | DOM Id: A__tooltip__302     | Browser: firefox       | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: Product image for item #4 is displayed                 | DOM Id: product_6           | Browser: firefox       | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: Name for item #4 is displayed                          | DOM Id: H3____311           | Browser: firefox       | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: 'Add to favorites' icon for item #4 is NOT displayed   | DOM Id: A__tooltip__316     | Browser: firefox       | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: 'Add to compare' icon for item #4 is NOT displayed     | DOM Id: A__tooltip__320     | Browser: firefox       | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: 'Add to cart' icon for item #4 is NOT displayed        | DOM Id: A__tooltip__324     | Browser: firefox       | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: Product image for item #5 is displayed                 | DOM Id: product_7           | Browser: firefox       | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: Name for item #5 is displayed                          | DOM Id: H3____333           | Browser: firefox       | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: 'Add to favorites' icon for item #5 is NOT displayed   | DOM Id: A__tooltip__338     | Browser: firefox       | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: 'Add to compare' icon for item #5 is NOT displayed     | DOM Id: A__tooltip__342     | Browser: firefox       | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: 'Add to cart' icon for item #5 is NOT displayed        | DOM Id: A__tooltip__346     | Browser: firefox       | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: Product image for item #6 is displayed                 | DOM Id: product_8           | Browser: firefox       | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: Name for item #6 is displayed                          | DOM Id: H3____355           | Browser: firefox       | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: 'Add to favorites' icon for item #6 is NOT displayed   | DOM Id: A__tooltip__360     | Browser: firefox       | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: 'Add to compare' icon for item #6 is NOT displayed     | DOM Id: A__tooltip__364     | Browser: firefox       | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: 'Add to cart' icon for item #6 is NOT displayed        | DOM Id: A__tooltip__368     | Browser: firefox       | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: Product image for item #7 is displayed                 | DOM Id: product_2           | Browser: firefox       | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: Name for item #7 is displayed                          | DOM Id: H3____379           | Browser: firefox       | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: 'Add to favorites' icon for item #7 is NOT displayed   | DOM Id: A__tooltip__385     | Browser: firefox       | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: 'Add to compare' icon for item #7 is NOT displayed     | DOM Id: A__tooltip__389     | Browser: firefox       | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: 'Add to cart' icon for item #7 is NOT displayed        | DOM Id: A__tooltip__393     | Browser: firefox       | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: Product image for item #8 is displayed                 | DOM Id: product_9           | Browser: firefox       | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: Name for item #8 is displayed                          | DOM Id: H3____402           | Browser: firefox       | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: 'Add to favorites' icon for item #8 is NOT displayed   | DOM Id: A__tooltip__407     | Browser: firefox       | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: 'Add to compare' icon for item #8 is NOT displayed     | DOM Id: A__tooltip__411     | Browser: firefox       | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: 'Add to cart' icon for item #8 is NOT displayed        | DOM Id: A__tooltip__415     | Browser: firefox       | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: 'QUICK LINKS' section is displayed                     | DOM Id: collapse_1          | Browser: firefox       | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: 'CONTACTS' section is displayed                        | DOM Id: collapse_3          | Browser: firefox       | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: 'Your email' input field is displayed                  | DOM Id: email_newsletter    | Browser: firefox       | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: Search input field is displayed                        | DOM Id: DIV__customsear__41 | Browser: MicrosoftEdge | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: Top Navigation menu is displayed                       | DOM Id: DIV__mainmenu__15   | Browser: MicrosoftEdge | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: Side-bar Filters pane is displayed                     | DOM Id: filter_col          | Browser: MicrosoftEdge | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: Product grid is displayed                              | DOM Id: product_grid        | Browser: MicrosoftEdge | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: Filters button is NOT displayed                        | DOM Id: A__openfilter__207  | Browser: MicrosoftEdge | Viewport: (1200, 700) | Device: Laptop| Status: FAIL 
+Task: 1| Test Name: Grid View button is displayed                          | DOM Id: I__tiviewgrid__203  | Browser: MicrosoftEdge | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: List View button is displayed                          | DOM Id: I__tiviewlist__205  | Browser: MicrosoftEdge | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: Product image for item #0 is displayed                 | DOM Id: product_1           | Browser: MicrosoftEdge | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: Name for item #0 is displayed                          | DOM Id: H3____219           | Browser: MicrosoftEdge | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: 'Add to favorites' icon for item #0 is NOT displayed   | DOM Id: A__tooltip__225     | Browser: MicrosoftEdge | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: 'Add to compare' icon for item #0 is NOT displayed     | DOM Id: A__tooltip__229     | Browser: MicrosoftEdge | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: 'Add to cart' icon for item #0 is NOT displayed        | DOM Id: A__tooltip__233     | Browser: MicrosoftEdge | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: Product image for item #1 is displayed                 | DOM Id: product_3           | Browser: MicrosoftEdge | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: Name for item #1 is displayed                          | DOM Id: H3____244           | Browser: MicrosoftEdge | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: 'Add to favorites' icon for item #1 is NOT displayed   | DOM Id: A__tooltip__250     | Browser: MicrosoftEdge | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: 'Add to compare' icon for item #1 is NOT displayed     | DOM Id: A__tooltip__254     | Browser: MicrosoftEdge | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: 'Add to cart' icon for item #1 is NOT displayed        | DOM Id: A__tooltip__258     | Browser: MicrosoftEdge | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: Product image for item #2 is displayed                 | DOM Id: product_4           | Browser: MicrosoftEdge | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: Name for item #2 is displayed                          | DOM Id: H3____267           | Browser: MicrosoftEdge | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: 'Add to favorites' icon for item #2 is NOT displayed   | DOM Id: A__tooltip__272     | Browser: MicrosoftEdge | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: 'Add to compare' icon for item #2 is NOT displayed     | DOM Id: A__tooltip__276     | Browser: MicrosoftEdge | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: 'Add to cart' icon for item #2 is NOT displayed        | DOM Id: A__tooltip__280     | Browser: MicrosoftEdge | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: Product image for item #3 is displayed                 | DOM Id: product_5           | Browser: MicrosoftEdge | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: Name for item #3 is displayed                          | DOM Id: H3____289           | Browser: MicrosoftEdge | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: 'Add to favorites' icon for item #3 is NOT displayed   | DOM Id: A__tooltip__294     | Browser: MicrosoftEdge | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: 'Add to compare' icon for item #3 is NOT displayed     | DOM Id: A__tooltip__298     | Browser: MicrosoftEdge | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: 'Add to cart' icon for item #3 is NOT displayed        | DOM Id: A__tooltip__302     | Browser: MicrosoftEdge | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: Product image for item #4 is displayed                 | DOM Id: product_6           | Browser: MicrosoftEdge | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: Name for item #4 is displayed                          | DOM Id: H3____311           | Browser: MicrosoftEdge | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: 'Add to favorites' icon for item #4 is NOT displayed   | DOM Id: A__tooltip__316     | Browser: MicrosoftEdge | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: 'Add to compare' icon for item #4 is NOT displayed     | DOM Id: A__tooltip__320     | Browser: MicrosoftEdge | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: 'Add to cart' icon for item #4 is NOT displayed        | DOM Id: A__tooltip__324     | Browser: MicrosoftEdge | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: Product image for item #5 is displayed                 | DOM Id: product_7           | Browser: MicrosoftEdge | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: Name for item #5 is displayed                          | DOM Id: H3____333           | Browser: MicrosoftEdge | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: 'Add to favorites' icon for item #5 is NOT displayed   | DOM Id: A__tooltip__338     | Browser: MicrosoftEdge | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: 'Add to compare' icon for item #5 is NOT displayed     | DOM Id: A__tooltip__342     | Browser: MicrosoftEdge | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: 'Add to cart' icon for item #5 is NOT displayed        | DOM Id: A__tooltip__346     | Browser: MicrosoftEdge | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: Product image for item #6 is displayed                 | DOM Id: product_8           | Browser: MicrosoftEdge | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: Name for item #6 is displayed                          | DOM Id: H3____355           | Browser: MicrosoftEdge | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: 'Add to favorites' icon for item #6 is NOT displayed   | DOM Id: A__tooltip__360     | Browser: MicrosoftEdge | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: 'Add to compare' icon for item #6 is NOT displayed     | DOM Id: A__tooltip__364     | Browser: MicrosoftEdge | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: 'Add to cart' icon for item #6 is NOT displayed        | DOM Id: A__tooltip__368     | Browser: MicrosoftEdge | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: Product image for item #7 is displayed                 | DOM Id: product_2           | Browser: MicrosoftEdge | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: Name for item #7 is displayed                          | DOM Id: H3____379           | Browser: MicrosoftEdge | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: 'Add to favorites' icon for item #7 is NOT displayed   | DOM Id: A__tooltip__385     | Browser: MicrosoftEdge | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: 'Add to compare' icon for item #7 is NOT displayed     | DOM Id: A__tooltip__389     | Browser: MicrosoftEdge | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: 'Add to cart' icon for item #7 is NOT displayed        | DOM Id: A__tooltip__393     | Browser: MicrosoftEdge | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: Product image for item #8 is displayed                 | DOM Id: product_9           | Browser: MicrosoftEdge | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: Name for item #8 is displayed                          | DOM Id: H3____402           | Browser: MicrosoftEdge | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: 'Add to favorites' icon for item #8 is NOT displayed   | DOM Id: A__tooltip__407     | Browser: MicrosoftEdge | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: 'Add to compare' icon for item #8 is NOT displayed     | DOM Id: A__tooltip__411     | Browser: MicrosoftEdge | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: 'Add to cart' icon for item #8 is NOT displayed        | DOM Id: A__tooltip__415     | Browser: MicrosoftEdge | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: 'QUICK LINKS' section is displayed                     | DOM Id: collapse_1          | Browser: MicrosoftEdge | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: 'CONTACTS' section is displayed                        | DOM Id: collapse_3          | Browser: MicrosoftEdge | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: 'Your email' input field is displayed                  | DOM Id: email_newsletter    | Browser: MicrosoftEdge | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 1| Test Name: Search input field is displayed                        | DOM Id: DIV__customsear__41 | Browser: chrome        | Viewport: (786, 700)  | Device: Tablet| Status: PASS 
+Task: 1| Test Name: Top Navigation menu is NOT displayed                   | DOM Id: DIV__mainmenu__15   | Browser: chrome        | Viewport: (786, 700)  | Device: Tablet| Status: PASS 
+Task: 1| Test Name: Side-bar Filters pane is NOT displayed                 | DOM Id: filter_col          | Browser: chrome        | Viewport: (786, 700)  | Device: Tablet| Status: PASS 
+Task: 1| Test Name: Product grid is displayed                              | DOM Id: product_grid        | Browser: chrome        | Viewport: (786, 700)  | Device: Tablet| Status: PASS 
+Task: 1| Test Name: Filters button is displayed                            | DOM Id: A__openfilter__207  | Browser: chrome        | Viewport: (786, 700)  | Device: Tablet| Status: PASS 
+Task: 1| Test Name: Grid View button is NOT displayed                      | DOM Id: I__tiviewgrid__203  | Browser: chrome        | Viewport: (786, 700)  | Device: Tablet| Status: FAIL 
+Task: 1| Test Name: List View button is NOT displayed                      | DOM Id: I__tiviewlist__205  | Browser: chrome        | Viewport: (786, 700)  | Device: Tablet| Status: FAIL 
+Task: 1| Test Name: Product image for item #0 is displayed                 | DOM Id: product_1           | Browser: chrome        | Viewport: (786, 700)  | Device: Tablet| Status: PASS 
+Task: 1| Test Name: Name for item #0 is displayed                          | DOM Id: H3____219           | Browser: chrome        | Viewport: (786, 700)  | Device: Tablet| Status: PASS 
+Task: 1| Test Name: 'Add to favorites' icon for item #0 is displayed       | DOM Id: A__tooltip__225     | Browser: chrome        | Viewport: (786, 700)  | Device: Tablet| Status: FAIL 
+Task: 1| Test Name: 'Add to compare' icon for item #0 is displayed         | DOM Id: A__tooltip__229     | Browser: chrome        | Viewport: (786, 700)  | Device: Tablet| Status: FAIL 
+Task: 1| Test Name: 'Add to cart' icon for item #0 is displayed            | DOM Id: A__tooltip__233     | Browser: chrome        | Viewport: (786, 700)  | Device: Tablet| Status: FAIL 
+Task: 1| Test Name: Product image for item #1 is displayed                 | DOM Id: product_3           | Browser: chrome        | Viewport: (786, 700)  | Device: Tablet| Status: PASS 
+Task: 1| Test Name: Name for item #1 is displayed                          | DOM Id: H3____244           | Browser: chrome        | Viewport: (786, 700)  | Device: Tablet| Status: PASS 
+Task: 1| Test Name: 'Add to favorites' icon for item #1 is displayed       | DOM Id: A__tooltip__250     | Browser: chrome        | Viewport: (786, 700)  | Device: Tablet| Status: FAIL 
+Task: 1| Test Name: 'Add to compare' icon for item #1 is displayed         | DOM Id: A__tooltip__254     | Browser: chrome        | Viewport: (786, 700)  | Device: Tablet| Status: FAIL 
+Task: 1| Test Name: 'Add to cart' icon for item #1 is displayed            | DOM Id: A__tooltip__258     | Browser: chrome        | Viewport: (786, 700)  | Device: Tablet| Status: FAIL 
+Task: 1| Test Name: Product image for item #2 is displayed                 | DOM Id: product_4           | Browser: chrome        | Viewport: (786, 700)  | Device: Tablet| Status: PASS 
+Task: 1| Test Name: Name for item #2 is displayed                          | DOM Id: H3____267           | Browser: chrome        | Viewport: (786, 700)  | Device: Tablet| Status: PASS 
+Task: 1| Test Name: 'Add to favorites' icon for item #2 is displayed       | DOM Id: A__tooltip__272     | Browser: chrome        | Viewport: (786, 700)  | Device: Tablet| Status: FAIL 
+Task: 1| Test Name: 'Add to compare' icon for item #2 is displayed         | DOM Id: A__tooltip__276     | Browser: chrome        | Viewport: (786, 700)  | Device: Tablet| Status: FAIL 
+Task: 1| Test Name: 'Add to cart' icon for item #2 is displayed            | DOM Id: A__tooltip__280     | Browser: chrome        | Viewport: (786, 700)  | Device: Tablet| Status: FAIL 
+Task: 1| Test Name: Product image for item #3 is displayed                 | DOM Id: product_5           | Browser: chrome        | Viewport: (786, 700)  | Device: Tablet| Status: PASS 
+Task: 1| Test Name: Name for item #3 is displayed                          | DOM Id: H3____289           | Browser: chrome        | Viewport: (786, 700)  | Device: Tablet| Status: PASS 
+Task: 1| Test Name: 'Add to favorites' icon for item #3 is displayed       | DOM Id: A__tooltip__294     | Browser: chrome        | Viewport: (786, 700)  | Device: Tablet| Status: FAIL 
+Task: 1| Test Name: 'Add to compare' icon for item #3 is displayed         | DOM Id: A__tooltip__298     | Browser: chrome        | Viewport: (786, 700)  | Device: Tablet| Status: FAIL 
+Task: 1| Test Name: 'Add to cart' icon for item #3 is displayed            | DOM Id: A__tooltip__302     | Browser: chrome        | Viewport: (786, 700)  | Device: Tablet| Status: FAIL 
+Task: 1| Test Name: Product image for item #4 is displayed                 | DOM Id: product_6           | Browser: chrome        | Viewport: (786, 700)  | Device: Tablet| Status: PASS 
+Task: 1| Test Name: Name for item #4 is displayed                          | DOM Id: H3____311           | Browser: chrome        | Viewport: (786, 700)  | Device: Tablet| Status: PASS 
+Task: 1| Test Name: 'Add to favorites' icon for item #4 is displayed       | DOM Id: A__tooltip__316     | Browser: chrome        | Viewport: (786, 700)  | Device: Tablet| Status: FAIL 
+Task: 1| Test Name: 'Add to compare' icon for item #4 is displayed         | DOM Id: A__tooltip__320     | Browser: chrome        | Viewport: (786, 700)  | Device: Tablet| Status: FAIL 
+Task: 1| Test Name: 'Add to cart' icon for item #4 is displayed            | DOM Id: A__tooltip__324     | Browser: chrome        | Viewport: (786, 700)  | Device: Tablet| Status: FAIL 
+Task: 1| Test Name: Product image for item #5 is displayed                 | DOM Id: product_7           | Browser: chrome        | Viewport: (786, 700)  | Device: Tablet| Status: PASS 
+Task: 1| Test Name: Name for item #5 is displayed                          | DOM Id: H3____333           | Browser: chrome        | Viewport: (786, 700)  | Device: Tablet| Status: PASS 
+Task: 1| Test Name: 'Add to favorites' icon for item #5 is displayed       | DOM Id: A__tooltip__338     | Browser: chrome        | Viewport: (786, 700)  | Device: Tablet| Status: FAIL 
+Task: 1| Test Name: 'Add to compare' icon for item #5 is displayed         | DOM Id: A__tooltip__342     | Browser: chrome        | Viewport: (786, 700)  | Device: Tablet| Status: FAIL 
+Task: 1| Test Name: 'Add to cart' icon for item #5 is displayed            | DOM Id: A__tooltip__346     | Browser: chrome        | Viewport: (786, 700)  | Device: Tablet| Status: FAIL 
+Task: 1| Test Name: Product image for item #6 is displayed                 | DOM Id: product_8           | Browser: chrome        | Viewport: (786, 700)  | Device: Tablet| Status: PASS 
+Task: 1| Test Name: Name for item #6 is displayed                          | DOM Id: H3____355           | Browser: chrome        | Viewport: (786, 700)  | Device: Tablet| Status: PASS 
+Task: 1| Test Name: 'Add to favorites' icon for item #6 is displayed       | DOM Id: A__tooltip__360     | Browser: chrome        | Viewport: (786, 700)  | Device: Tablet| Status: FAIL 
+Task: 1| Test Name: 'Add to compare' icon for item #6 is displayed         | DOM Id: A__tooltip__364     | Browser: chrome        | Viewport: (786, 700)  | Device: Tablet| Status: FAIL 
+Task: 1| Test Name: 'Add to cart' icon for item #6 is displayed            | DOM Id: A__tooltip__368     | Browser: chrome        | Viewport: (786, 700)  | Device: Tablet| Status: FAIL 
+Task: 1| Test Name: Product image for item #7 is displayed                 | DOM Id: product_2           | Browser: chrome        | Viewport: (786, 700)  | Device: Tablet| Status: PASS 
+Task: 1| Test Name: Name for item #7 is displayed                          | DOM Id: H3____379           | Browser: chrome        | Viewport: (786, 700)  | Device: Tablet| Status: PASS 
+Task: 1| Test Name: 'Add to favorites' icon for item #7 is displayed       | DOM Id: A__tooltip__385     | Browser: chrome        | Viewport: (786, 700)  | Device: Tablet| Status: FAIL 
+Task: 1| Test Name: 'Add to compare' icon for item #7 is displayed         | DOM Id: A__tooltip__389     | Browser: chrome        | Viewport: (786, 700)  | Device: Tablet| Status: FAIL 
+Task: 1| Test Name: 'Add to cart' icon for item #7 is displayed            | DOM Id: A__tooltip__393     | Browser: chrome        | Viewport: (786, 700)  | Device: Tablet| Status: FAIL 
+Task: 1| Test Name: Product image for item #8 is displayed                 | DOM Id: product_9           | Browser: chrome        | Viewport: (786, 700)  | Device: Tablet| Status: PASS 
+Task: 1| Test Name: Name for item #8 is displayed                          | DOM Id: H3____402           | Browser: chrome        | Viewport: (786, 700)  | Device: Tablet| Status: PASS 
+Task: 1| Test Name: 'Add to favorites' icon for item #8 is displayed       | DOM Id: A__tooltip__407     | Browser: chrome        | Viewport: (786, 700)  | Device: Tablet| Status: FAIL 
+Task: 1| Test Name: 'Add to compare' icon for item #8 is displayed         | DOM Id: A__tooltip__411     | Browser: chrome        | Viewport: (786, 700)  | Device: Tablet| Status: FAIL 
+Task: 1| Test Name: 'Add to cart' icon for item #8 is displayed            | DOM Id: A__tooltip__415     | Browser: chrome        | Viewport: (786, 700)  | Device: Tablet| Status: FAIL 
+Task: 1| Test Name: 'QUICK LINKS' section is displayed                     | DOM Id: collapse_1          | Browser: chrome        | Viewport: (786, 700)  | Device: Tablet| Status: PASS 
+Task: 1| Test Name: 'CONTACTS' section is displayed                        | DOM Id: collapse_3          | Browser: chrome        | Viewport: (786, 700)  | Device: Tablet| Status: PASS 
+Task: 1| Test Name: 'Your email' input field is displayed                  | DOM Id: email_newsletter    | Browser: chrome        | Viewport: (786, 700)  | Device: Tablet| Status: PASS 
+Task: 1| Test Name: Search input field is displayed                        | DOM Id: DIV__customsear__41 | Browser: firefox       | Viewport: (786, 700)  | Device: Tablet| Status: PASS 
+Task: 1| Test Name: Top Navigation menu is NOT displayed                   | DOM Id: DIV__mainmenu__15   | Browser: firefox       | Viewport: (786, 700)  | Device: Tablet| Status: PASS 
+Task: 1| Test Name: Side-bar Filters pane is NOT displayed                 | DOM Id: filter_col          | Browser: firefox       | Viewport: (786, 700)  | Device: Tablet| Status: PASS 
+Task: 1| Test Name: Product grid is displayed                              | DOM Id: product_grid        | Browser: firefox       | Viewport: (786, 700)  | Device: Tablet| Status: PASS 
+Task: 1| Test Name: Filters button is displayed                            | DOM Id: A__openfilter__207  | Browser: firefox       | Viewport: (786, 700)  | Device: Tablet| Status: PASS 
+Task: 1| Test Name: Grid View button is NOT displayed                      | DOM Id: I__tiviewgrid__203  | Browser: firefox       | Viewport: (786, 700)  | Device: Tablet| Status: FAIL 
+Task: 1| Test Name: List View button is NOT displayed                      | DOM Id: I__tiviewlist__205  | Browser: firefox       | Viewport: (786, 700)  | Device: Tablet| Status: FAIL 
+Task: 1| Test Name: Product image for item #0 is displayed                 | DOM Id: product_1           | Browser: firefox       | Viewport: (786, 700)  | Device: Tablet| Status: PASS 
+Task: 1| Test Name: Name for item #0 is displayed                          | DOM Id: H3____219           | Browser: firefox       | Viewport: (786, 700)  | Device: Tablet| Status: PASS 
+Task: 1| Test Name: 'Add to favorites' icon for item #0 is displayed       | DOM Id: A__tooltip__225     | Browser: firefox       | Viewport: (786, 700)  | Device: Tablet| Status: FAIL 
+Task: 1| Test Name: 'Add to compare' icon for item #0 is displayed         | DOM Id: A__tooltip__229     | Browser: firefox       | Viewport: (786, 700)  | Device: Tablet| Status: FAIL 
+Task: 1| Test Name: 'Add to cart' icon for item #0 is displayed            | DOM Id: A__tooltip__233     | Browser: firefox       | Viewport: (786, 700)  | Device: Tablet| Status: FAIL 
+Task: 1| Test Name: Product image for item #1 is displayed                 | DOM Id: product_3           | Browser: firefox       | Viewport: (786, 700)  | Device: Tablet| Status: PASS 
+Task: 1| Test Name: Name for item #1 is displayed                          | DOM Id: H3____244           | Browser: firefox       | Viewport: (786, 700)  | Device: Tablet| Status: PASS 
+Task: 1| Test Name: 'Add to favorites' icon for item #1 is displayed       | DOM Id: A__tooltip__250     | Browser: firefox       | Viewport: (786, 700)  | Device: Tablet| Status: FAIL 
+Task: 1| Test Name: 'Add to compare' icon for item #1 is displayed         | DOM Id: A__tooltip__254     | Browser: firefox       | Viewport: (786, 700)  | Device: Tablet| Status: FAIL 
+Task: 1| Test Name: 'Add to cart' icon for item #1 is displayed            | DOM Id: A__tooltip__258     | Browser: firefox       | Viewport: (786, 700)  | Device: Tablet| Status: FAIL 
+Task: 1| Test Name: Product image for item #2 is displayed                 | DOM Id: product_4           | Browser: firefox       | Viewport: (786, 700)  | Device: Tablet| Status: PASS 
+Task: 1| Test Name: Name for item #2 is displayed                          | DOM Id: H3____267           | Browser: firefox       | Viewport: (786, 700)  | Device: Tablet| Status: PASS 
+Task: 1| Test Name: 'Add to favorites' icon for item #2 is displayed       | DOM Id: A__tooltip__272     | Browser: firefox       | Viewport: (786, 700)  | Device: Tablet| Status: FAIL 
+Task: 1| Test Name: 'Add to compare' icon for item #2 is displayed         | DOM Id: A__tooltip__276     | Browser: firefox       | Viewport: (786, 700)  | Device: Tablet| Status: FAIL 
+Task: 1| Test Name: 'Add to cart' icon for item #2 is displayed            | DOM Id: A__tooltip__280     | Browser: firefox       | Viewport: (786, 700)  | Device: Tablet| Status: FAIL 
+Task: 1| Test Name: Product image for item #3 is displayed                 | DOM Id: product_5           | Browser: firefox       | Viewport: (786, 700)  | Device: Tablet| Status: PASS 
+Task: 1| Test Name: Name for item #3 is displayed                          | DOM Id: H3____289           | Browser: firefox       | Viewport: (786, 700)  | Device: Tablet| Status: PASS 
+Task: 1| Test Name: 'Add to favorites' icon for item #3 is displayed       | DOM Id: A__tooltip__294     | Browser: firefox       | Viewport: (786, 700)  | Device: Tablet| Status: FAIL 
+Task: 1| Test Name: 'Add to compare' icon for item #3 is displayed         | DOM Id: A__tooltip__298     | Browser: firefox       | Viewport: (786, 700)  | Device: Tablet| Status: FAIL 
+Task: 1| Test Name: 'Add to cart' icon for item #3 is displayed            | DOM Id: A__tooltip__302     | Browser: firefox       | Viewport: (786, 700)  | Device: Tablet| Status: FAIL 
+Task: 1| Test Name: Product image for item #4 is displayed                 | DOM Id: product_6           | Browser: firefox       | Viewport: (786, 700)  | Device: Tablet| Status: PASS 
+Task: 1| Test Name: Name for item #4 is displayed                          | DOM Id: H3____311           | Browser: firefox       | Viewport: (786, 700)  | Device: Tablet| Status: PASS 
+Task: 1| Test Name: 'Add to favorites' icon for item #4 is displayed       | DOM Id: A__tooltip__316     | Browser: firefox       | Viewport: (786, 700)  | Device: Tablet| Status: FAIL 
+Task: 1| Test Name: 'Add to compare' icon for item #4 is displayed         | DOM Id: A__tooltip__320     | Browser: firefox       | Viewport: (786, 700)  | Device: Tablet| Status: FAIL 
+Task: 1| Test Name: 'Add to cart' icon for item #4 is displayed            | DOM Id: A__tooltip__324     | Browser: firefox       | Viewport: (786, 700)  | Device: Tablet| Status: FAIL 
+Task: 1| Test Name: Product image for item #5 is displayed                 | DOM Id: product_7           | Browser: firefox       | Viewport: (786, 700)  | Device: Tablet| Status: PASS 
+Task: 1| Test Name: Name for item #5 is displayed                          | DOM Id: H3____333           | Browser: firefox       | Viewport: (786, 700)  | Device: Tablet| Status: PASS 
+Task: 1| Test Name: 'Add to favorites' icon for item #5 is displayed       | DOM Id: A__tooltip__338     | Browser: firefox       | Viewport: (786, 700)  | Device: Tablet| Status: FAIL 
+Task: 1| Test Name: 'Add to compare' icon for item #5 is displayed         | DOM Id: A__tooltip__342     | Browser: firefox       | Viewport: (786, 700)  | Device: Tablet| Status: FAIL 
+Task: 1| Test Name: 'Add to cart' icon for item #5 is displayed            | DOM Id: A__tooltip__346     | Browser: firefox       | Viewport: (786, 700)  | Device: Tablet| Status: FAIL 
+Task: 1| Test Name: Product image for item #6 is displayed                 | DOM Id: product_8           | Browser: firefox       | Viewport: (786, 700)  | Device: Tablet| Status: PASS 
+Task: 1| Test Name: Name for item #6 is displayed                          | DOM Id: H3____355           | Browser: firefox       | Viewport: (786, 700)  | Device: Tablet| Status: PASS 
+Task: 1| Test Name: 'Add to favorites' icon for item #6 is displayed       | DOM Id: A__tooltip__360     | Browser: firefox       | Viewport: (786, 700)  | Device: Tablet| Status: FAIL 
+Task: 1| Test Name: 'Add to compare' icon for item #6 is displayed         | DOM Id: A__tooltip__364     | Browser: firefox       | Viewport: (786, 700)  | Device: Tablet| Status: FAIL 
+Task: 1| Test Name: 'Add to cart' icon for item #6 is displayed            | DOM Id: A__tooltip__368     | Browser: firefox       | Viewport: (786, 700)  | Device: Tablet| Status: FAIL 
+Task: 1| Test Name: Product image for item #7 is displayed                 | DOM Id: product_2           | Browser: firefox       | Viewport: (786, 700)  | Device: Tablet| Status: PASS 
+Task: 1| Test Name: Name for item #7 is displayed                          | DOM Id: H3____379           | Browser: firefox       | Viewport: (786, 700)  | Device: Tablet| Status: PASS 
+Task: 1| Test Name: 'Add to favorites' icon for item #7 is displayed       | DOM Id: A__tooltip__385     | Browser: firefox       | Viewport: (786, 700)  | Device: Tablet| Status: FAIL 
+Task: 1| Test Name: 'Add to compare' icon for item #7 is displayed         | DOM Id: A__tooltip__389     | Browser: firefox       | Viewport: (786, 700)  | Device: Tablet| Status: FAIL 
+Task: 1| Test Name: 'Add to cart' icon for item #7 is displayed            | DOM Id: A__tooltip__393     | Browser: firefox       | Viewport: (786, 700)  | Device: Tablet| Status: FAIL 
+Task: 1| Test Name: Product image for item #8 is displayed                 | DOM Id: product_9           | Browser: firefox       | Viewport: (786, 700)  | Device: Tablet| Status: PASS 
+Task: 1| Test Name: Name for item #8 is displayed                          | DOM Id: H3____402           | Browser: firefox       | Viewport: (786, 700)  | Device: Tablet| Status: PASS 
+Task: 1| Test Name: 'Add to favorites' icon for item #8 is displayed       | DOM Id: A__tooltip__407     | Browser: firefox       | Viewport: (786, 700)  | Device: Tablet| Status: FAIL 
+Task: 1| Test Name: 'Add to compare' icon for item #8 is displayed         | DOM Id: A__tooltip__411     | Browser: firefox       | Viewport: (786, 700)  | Device: Tablet| Status: FAIL 
+Task: 1| Test Name: 'Add to cart' icon for item #8 is displayed            | DOM Id: A__tooltip__415     | Browser: firefox       | Viewport: (786, 700)  | Device: Tablet| Status: FAIL 
+Task: 1| Test Name: 'QUICK LINKS' section is displayed                     | DOM Id: collapse_1          | Browser: firefox       | Viewport: (786, 700)  | Device: Tablet| Status: PASS 
+Task: 1| Test Name: 'CONTACTS' section is displayed                        | DOM Id: collapse_3          | Browser: firefox       | Viewport: (786, 700)  | Device: Tablet| Status: PASS 
+Task: 1| Test Name: 'Your email' input field is displayed                  | DOM Id: email_newsletter    | Browser: firefox       | Viewport: (786, 700)  | Device: Tablet| Status: PASS 
+Task: 1| Test Name: Search input field is displayed                        | DOM Id: DIV__customsear__41 | Browser: MicrosoftEdge | Viewport: (786, 700)  | Device: Tablet| Status: PASS 
+Task: 1| Test Name: Top Navigation menu is NOT displayed                   | DOM Id: DIV__mainmenu__15   | Browser: MicrosoftEdge | Viewport: (786, 700)  | Device: Tablet| Status: PASS 
+Task: 1| Test Name: Side-bar Filters pane is NOT displayed                 | DOM Id: filter_col          | Browser: MicrosoftEdge | Viewport: (786, 700)  | Device: Tablet| Status: PASS 
+Task: 1| Test Name: Product grid is displayed                              | DOM Id: product_grid        | Browser: MicrosoftEdge | Viewport: (786, 700)  | Device: Tablet| Status: PASS 
+Task: 1| Test Name: Filters button is displayed                            | DOM Id: A__openfilter__207  | Browser: MicrosoftEdge | Viewport: (786, 700)  | Device: Tablet| Status: PASS 
+Task: 1| Test Name: Grid View button is NOT displayed                      | DOM Id: I__tiviewgrid__203  | Browser: MicrosoftEdge | Viewport: (786, 700)  | Device: Tablet| Status: FAIL 
+Task: 1| Test Name: List View button is NOT displayed                      | DOM Id: I__tiviewlist__205  | Browser: MicrosoftEdge | Viewport: (786, 700)  | Device: Tablet| Status: FAIL 
+Task: 1| Test Name: Product image for item #0 is displayed                 | DOM Id: product_1           | Browser: MicrosoftEdge | Viewport: (786, 700)  | Device: Tablet| Status: PASS 
+Task: 1| Test Name: Name for item #0 is displayed                          | DOM Id: H3____219           | Browser: MicrosoftEdge | Viewport: (786, 700)  | Device: Tablet| Status: PASS 
+Task: 1| Test Name: 'Add to favorites' icon for item #0 is displayed       | DOM Id: A__tooltip__225     | Browser: MicrosoftEdge | Viewport: (786, 700)  | Device: Tablet| Status: FAIL 
+Task: 1| Test Name: 'Add to compare' icon for item #0 is displayed         | DOM Id: A__tooltip__229     | Browser: MicrosoftEdge | Viewport: (786, 700)  | Device: Tablet| Status: FAIL 
+Task: 1| Test Name: 'Add to cart' icon for item #0 is displayed            | DOM Id: A__tooltip__233     | Browser: MicrosoftEdge | Viewport: (786, 700)  | Device: Tablet| Status: FAIL 
+Task: 1| Test Name: Product image for item #1 is displayed                 | DOM Id: product_3           | Browser: MicrosoftEdge | Viewport: (786, 700)  | Device: Tablet| Status: PASS 
+Task: 1| Test Name: Name for item #1 is displayed                          | DOM Id: H3____244           | Browser: MicrosoftEdge | Viewport: (786, 700)  | Device: Tablet| Status: PASS 
+Task: 1| Test Name: 'Add to favorites' icon for item #1 is displayed       | DOM Id: A__tooltip__250     | Browser: MicrosoftEdge | Viewport: (786, 700)  | Device: Tablet| Status: FAIL 
+Task: 1| Test Name: 'Add to compare' icon for item #1 is displayed         | DOM Id: A__tooltip__254     | Browser: MicrosoftEdge | Viewport: (786, 700)  | Device: Tablet| Status: FAIL 
+Task: 1| Test Name: 'Add to cart' icon for item #1 is displayed            | DOM Id: A__tooltip__258     | Browser: MicrosoftEdge | Viewport: (786, 700)  | Device: Tablet| Status: FAIL 
+Task: 1| Test Name: Product image for item #2 is displayed                 | DOM Id: product_4           | Browser: MicrosoftEdge | Viewport: (786, 700)  | Device: Tablet| Status: PASS 
+Task: 1| Test Name: Name for item #2 is displayed                          | DOM Id: H3____267           | Browser: MicrosoftEdge | Viewport: (786, 700)  | Device: Tablet| Status: PASS 
+Task: 1| Test Name: 'Add to favorites' icon for item #2 is displayed       | DOM Id: A__tooltip__272     | Browser: MicrosoftEdge | Viewport: (786, 700)  | Device: Tablet| Status: FAIL 
+Task: 1| Test Name: 'Add to compare' icon for item #2 is displayed         | DOM Id: A__tooltip__276     | Browser: MicrosoftEdge | Viewport: (786, 700)  | Device: Tablet| Status: FAIL 
+Task: 1| Test Name: 'Add to cart' icon for item #2 is displayed            | DOM Id: A__tooltip__280     | Browser: MicrosoftEdge | Viewport: (786, 700)  | Device: Tablet| Status: FAIL 
+Task: 1| Test Name: Product image for item #3 is displayed                 | DOM Id: product_5           | Browser: MicrosoftEdge | Viewport: (786, 700)  | Device: Tablet| Status: PASS 
+Task: 1| Test Name: Name for item #3 is displayed                          | DOM Id: H3____289           | Browser: MicrosoftEdge | Viewport: (786, 700)  | Device: Tablet| Status: PASS 
+Task: 1| Test Name: 'Add to favorites' icon for item #3 is displayed       | DOM Id: A__tooltip__294     | Browser: MicrosoftEdge | Viewport: (786, 700)  | Device: Tablet| Status: FAIL 
+Task: 1| Test Name: 'Add to compare' icon for item #3 is displayed         | DOM Id: A__tooltip__298     | Browser: MicrosoftEdge | Viewport: (786, 700)  | Device: Tablet| Status: FAIL 
+Task: 1| Test Name: 'Add to cart' icon for item #3 is displayed            | DOM Id: A__tooltip__302     | Browser: MicrosoftEdge | Viewport: (786, 700)  | Device: Tablet| Status: FAIL 
+Task: 1| Test Name: Product image for item #4 is displayed                 | DOM Id: product_6           | Browser: MicrosoftEdge | Viewport: (786, 700)  | Device: Tablet| Status: PASS 
+Task: 1| Test Name: Name for item #4 is displayed                          | DOM Id: H3____311           | Browser: MicrosoftEdge | Viewport: (786, 700)  | Device: Tablet| Status: PASS 
+Task: 1| Test Name: 'Add to favorites' icon for item #4 is displayed       | DOM Id: A__tooltip__316     | Browser: MicrosoftEdge | Viewport: (786, 700)  | Device: Tablet| Status: FAIL 
+Task: 1| Test Name: 'Add to compare' icon for item #4 is displayed         | DOM Id: A__tooltip__320     | Browser: MicrosoftEdge | Viewport: (786, 700)  | Device: Tablet| Status: FAIL 
+Task: 1| Test Name: 'Add to cart' icon for item #4 is displayed            | DOM Id: A__tooltip__324     | Browser: MicrosoftEdge | Viewport: (786, 700)  | Device: Tablet| Status: FAIL 
+Task: 1| Test Name: Product image for item #5 is displayed                 | DOM Id: product_7           | Browser: MicrosoftEdge | Viewport: (786, 700)  | Device: Tablet| Status: PASS 
+Task: 1| Test Name: Name for item #5 is displayed                          | DOM Id: H3____333           | Browser: MicrosoftEdge | Viewport: (786, 700)  | Device: Tablet| Status: PASS 
+Task: 1| Test Name: 'Add to favorites' icon for item #5 is displayed       | DOM Id: A__tooltip__338     | Browser: MicrosoftEdge | Viewport: (786, 700)  | Device: Tablet| Status: FAIL 
+Task: 1| Test Name: 'Add to compare' icon for item #5 is displayed         | DOM Id: A__tooltip__342     | Browser: MicrosoftEdge | Viewport: (786, 700)  | Device: Tablet| Status: FAIL 
+Task: 1| Test Name: 'Add to cart' icon for item #5 is displayed            | DOM Id: A__tooltip__346     | Browser: MicrosoftEdge | Viewport: (786, 700)  | Device: Tablet| Status: FAIL 
+Task: 1| Test Name: Product image for item #6 is displayed                 | DOM Id: product_8           | Browser: MicrosoftEdge | Viewport: (786, 700)  | Device: Tablet| Status: PASS 
+Task: 1| Test Name: Name for item #6 is displayed                          | DOM Id: H3____355           | Browser: MicrosoftEdge | Viewport: (786, 700)  | Device: Tablet| Status: PASS 
+Task: 1| Test Name: 'Add to favorites' icon for item #6 is displayed       | DOM Id: A__tooltip__360     | Browser: MicrosoftEdge | Viewport: (786, 700)  | Device: Tablet| Status: FAIL 
+Task: 1| Test Name: 'Add to compare' icon for item #6 is displayed         | DOM Id: A__tooltip__364     | Browser: MicrosoftEdge | Viewport: (786, 700)  | Device: Tablet| Status: FAIL 
+Task: 1| Test Name: 'Add to cart' icon for item #6 is displayed            | DOM Id: A__tooltip__368     | Browser: MicrosoftEdge | Viewport: (786, 700)  | Device: Tablet| Status: FAIL 
+Task: 1| Test Name: Product image for item #7 is displayed                 | DOM Id: product_2           | Browser: MicrosoftEdge | Viewport: (786, 700)  | Device: Tablet| Status: PASS 
+Task: 1| Test Name: Name for item #7 is displayed                          | DOM Id: H3____379           | Browser: MicrosoftEdge | Viewport: (786, 700)  | Device: Tablet| Status: PASS 
+Task: 1| Test Name: 'Add to favorites' icon for item #7 is displayed       | DOM Id: A__tooltip__385     | Browser: MicrosoftEdge | Viewport: (786, 700)  | Device: Tablet| Status: FAIL 
+Task: 1| Test Name: 'Add to compare' icon for item #7 is displayed         | DOM Id: A__tooltip__389     | Browser: MicrosoftEdge | Viewport: (786, 700)  | Device: Tablet| Status: FAIL 
+Task: 1| Test Name: 'Add to cart' icon for item #7 is displayed            | DOM Id: A__tooltip__393     | Browser: MicrosoftEdge | Viewport: (786, 700)  | Device: Tablet| Status: FAIL 
+Task: 1| Test Name: Product image for item #8 is displayed                 | DOM Id: product_9           | Browser: MicrosoftEdge | Viewport: (786, 700)  | Device: Tablet| Status: PASS 
+Task: 1| Test Name: Name for item #8 is displayed                          | DOM Id: H3____402           | Browser: MicrosoftEdge | Viewport: (786, 700)  | Device: Tablet| Status: PASS 
+Task: 1| Test Name: 'Add to favorites' icon for item #8 is displayed       | DOM Id: A__tooltip__407     | Browser: MicrosoftEdge | Viewport: (786, 700)  | Device: Tablet| Status: FAIL 
+Task: 1| Test Name: 'Add to compare' icon for item #8 is displayed         | DOM Id: A__tooltip__411     | Browser: MicrosoftEdge | Viewport: (786, 700)  | Device: Tablet| Status: FAIL 
+Task: 1| Test Name: 'Add to cart' icon for item #8 is displayed            | DOM Id: A__tooltip__415     | Browser: MicrosoftEdge | Viewport: (786, 700)  | Device: Tablet| Status: FAIL 
+Task: 1| Test Name: 'QUICK LINKS' section is displayed                     | DOM Id: collapse_1          | Browser: MicrosoftEdge | Viewport: (786, 700)  | Device: Tablet| Status: PASS 
+Task: 1| Test Name: 'CONTACTS' section is displayed                        | DOM Id: collapse_3          | Browser: MicrosoftEdge | Viewport: (786, 700)  | Device: Tablet| Status: PASS 
+Task: 1| Test Name: 'Your email' input field is displayed                  | DOM Id: email_newsletter    | Browser: MicrosoftEdge | Viewport: (786, 700)  | Device: Tablet| Status: PASS 
+Task: 1| Test Name: Search input field is NOT displayed                    | DOM Id: DIV__customsear__41 | Browser: chrome        | Viewport: (500, 700)  | Device: Mobile| Status: FAIL 
+Task: 1| Test Name: Top Navigation menu is NOT displayed                   | DOM Id: DIV__mainmenu__15   | Browser: chrome        | Viewport: (500, 700)  | Device: Mobile| Status: PASS 
+Task: 1| Test Name: Side-bar Filters pane is NOT displayed                 | DOM Id: filter_col          | Browser: chrome        | Viewport: (500, 700)  | Device: Mobile| Status: PASS 
+Task: 1| Test Name: Product grid is displayed                              | DOM Id: product_grid        | Browser: chrome        | Viewport: (500, 700)  | Device: Mobile| Status: PASS 
+Task: 1| Test Name: Filters button is displayed                            | DOM Id: A__openfilter__207  | Browser: chrome        | Viewport: (500, 700)  | Device: Mobile| Status: PASS 
+Task: 1| Test Name: Grid View button is NOT displayed                      | DOM Id: I__tiviewgrid__203  | Browser: chrome        | Viewport: (500, 700)  | Device: Mobile| Status: FAIL 
+Task: 1| Test Name: List View button is NOT displayed                      | DOM Id: I__tiviewlist__205  | Browser: chrome        | Viewport: (500, 700)  | Device: Mobile| Status: FAIL 
+Task: 1| Test Name: Product image for item #0 is displayed                 | DOM Id: product_1           | Browser: chrome        | Viewport: (500, 700)  | Device: Mobile| Status: PASS 
+Task: 1| Test Name: Name for item #0 is displayed                          | DOM Id: H3____219           | Browser: chrome        | Viewport: (500, 700)  | Device: Mobile| Status: PASS 
+Task: 1| Test Name: 'Add to favorites' icon for item #0 is displayed       | DOM Id: A__tooltip__225     | Browser: chrome        | Viewport: (500, 700)  | Device: Mobile| Status: FAIL 
+Task: 1| Test Name: 'Add to compare' icon for item #0 is displayed         | DOM Id: A__tooltip__229     | Browser: chrome        | Viewport: (500, 700)  | Device: Mobile| Status: FAIL 
+Task: 1| Test Name: 'Add to cart' icon for item #0 is displayed            | DOM Id: A__tooltip__233     | Browser: chrome        | Viewport: (500, 700)  | Device: Mobile| Status: FAIL 
+Task: 1| Test Name: Product image for item #1 is displayed                 | DOM Id: product_3           | Browser: chrome        | Viewport: (500, 700)  | Device: Mobile| Status: PASS 
+Task: 1| Test Name: Name for item #1 is displayed                          | DOM Id: H3____244           | Browser: chrome        | Viewport: (500, 700)  | Device: Mobile| Status: PASS 
+Task: 1| Test Name: 'Add to favorites' icon for item #1 is displayed       | DOM Id: A__tooltip__250     | Browser: chrome        | Viewport: (500, 700)  | Device: Mobile| Status: FAIL 
+Task: 1| Test Name: 'Add to compare' icon for item #1 is displayed         | DOM Id: A__tooltip__254     | Browser: chrome        | Viewport: (500, 700)  | Device: Mobile| Status: FAIL 
+Task: 1| Test Name: 'Add to cart' icon for item #1 is displayed            | DOM Id: A__tooltip__258     | Browser: chrome        | Viewport: (500, 700)  | Device: Mobile| Status: FAIL 
+Task: 1| Test Name: Product image for item #2 is displayed                 | DOM Id: product_4           | Browser: chrome        | Viewport: (500, 700)  | Device: Mobile| Status: PASS 
+Task: 1| Test Name: Name for item #2 is displayed                          | DOM Id: H3____267           | Browser: chrome        | Viewport: (500, 700)  | Device: Mobile| Status: PASS 
+Task: 1| Test Name: 'Add to favorites' icon for item #2 is displayed       | DOM Id: A__tooltip__272     | Browser: chrome        | Viewport: (500, 700)  | Device: Mobile| Status: FAIL 
+Task: 1| Test Name: 'Add to compare' icon for item #2 is displayed         | DOM Id: A__tooltip__276     | Browser: chrome        | Viewport: (500, 700)  | Device: Mobile| Status: FAIL 
+Task: 1| Test Name: 'Add to cart' icon for item #2 is displayed            | DOM Id: A__tooltip__280     | Browser: chrome        | Viewport: (500, 700)  | Device: Mobile| Status: FAIL 
+Task: 1| Test Name: Product image for item #3 is displayed                 | DOM Id: product_5           | Browser: chrome        | Viewport: (500, 700)  | Device: Mobile| Status: PASS 
+Task: 1| Test Name: Name for item #3 is displayed                          | DOM Id: H3____289           | Browser: chrome        | Viewport: (500, 700)  | Device: Mobile| Status: PASS 
+Task: 1| Test Name: 'Add to favorites' icon for item #3 is displayed       | DOM Id: A__tooltip__294     | Browser: chrome        | Viewport: (500, 700)  | Device: Mobile| Status: FAIL 
+Task: 1| Test Name: 'Add to compare' icon for item #3 is displayed         | DOM Id: A__tooltip__298     | Browser: chrome        | Viewport: (500, 700)  | Device: Mobile| Status: FAIL 
+Task: 1| Test Name: 'Add to cart' icon for item #3 is displayed            | DOM Id: A__tooltip__302     | Browser: chrome        | Viewport: (500, 700)  | Device: Mobile| Status: FAIL 
+Task: 1| Test Name: Product image for item #4 is displayed                 | DOM Id: product_6           | Browser: chrome        | Viewport: (500, 700)  | Device: Mobile| Status: PASS 
+Task: 1| Test Name: Name for item #4 is displayed                          | DOM Id: H3____311           | Browser: chrome        | Viewport: (500, 700)  | Device: Mobile| Status: PASS 
+Task: 1| Test Name: 'Add to favorites' icon for item #4 is displayed       | DOM Id: A__tooltip__316     | Browser: chrome        | Viewport: (500, 700)  | Device: Mobile| Status: FAIL 
+Task: 1| Test Name: 'Add to compare' icon for item #4 is displayed         | DOM Id: A__tooltip__320     | Browser: chrome        | Viewport: (500, 700)  | Device: Mobile| Status: FAIL 
+Task: 1| Test Name: 'Add to cart' icon for item #4 is displayed            | DOM Id: A__tooltip__324     | Browser: chrome        | Viewport: (500, 700)  | Device: Mobile| Status: FAIL 
+Task: 1| Test Name: Product image for item #5 is displayed                 | DOM Id: product_7           | Browser: chrome        | Viewport: (500, 700)  | Device: Mobile| Status: PASS 
+Task: 1| Test Name: Name for item #5 is displayed                          | DOM Id: H3____333           | Browser: chrome        | Viewport: (500, 700)  | Device: Mobile| Status: PASS 
+Task: 1| Test Name: 'Add to favorites' icon for item #5 is displayed       | DOM Id: A__tooltip__338     | Browser: chrome        | Viewport: (500, 700)  | Device: Mobile| Status: FAIL 
+Task: 1| Test Name: 'Add to compare' icon for item #5 is displayed         | DOM Id: A__tooltip__342     | Browser: chrome        | Viewport: (500, 700)  | Device: Mobile| Status: FAIL 
+Task: 1| Test Name: 'Add to cart' icon for item #5 is displayed            | DOM Id: A__tooltip__346     | Browser: chrome        | Viewport: (500, 700)  | Device: Mobile| Status: FAIL 
+Task: 1| Test Name: Product image for item #6 is displayed                 | DOM Id: product_8           | Browser: chrome        | Viewport: (500, 700)  | Device: Mobile| Status: PASS 
+Task: 1| Test Name: Name for item #6 is displayed                          | DOM Id: H3____355           | Browser: chrome        | Viewport: (500, 700)  | Device: Mobile| Status: PASS 
+Task: 1| Test Name: 'Add to favorites' icon for item #6 is displayed       | DOM Id: A__tooltip__360     | Browser: chrome        | Viewport: (500, 700)  | Device: Mobile| Status: FAIL 
+Task: 1| Test Name: 'Add to compare' icon for item #6 is displayed         | DOM Id: A__tooltip__364     | Browser: chrome        | Viewport: (500, 700)  | Device: Mobile| Status: FAIL 
+Task: 1| Test Name: 'Add to cart' icon for item #6 is displayed            | DOM Id: A__tooltip__368     | Browser: chrome        | Viewport: (500, 700)  | Device: Mobile| Status: FAIL 
+Task: 1| Test Name: Product image for item #7 is displayed                 | DOM Id: product_2           | Browser: chrome        | Viewport: (500, 700)  | Device: Mobile| Status: PASS 
+Task: 1| Test Name: Name for item #7 is displayed                          | DOM Id: H3____379           | Browser: chrome        | Viewport: (500, 700)  | Device: Mobile| Status: PASS 
+Task: 1| Test Name: 'Add to favorites' icon for item #7 is displayed       | DOM Id: A__tooltip__385     | Browser: chrome        | Viewport: (500, 700)  | Device: Mobile| Status: FAIL 
+Task: 1| Test Name: 'Add to compare' icon for item #7 is displayed         | DOM Id: A__tooltip__389     | Browser: chrome        | Viewport: (500, 700)  | Device: Mobile| Status: FAIL 
+Task: 1| Test Name: 'Add to cart' icon for item #7 is displayed            | DOM Id: A__tooltip__393     | Browser: chrome        | Viewport: (500, 700)  | Device: Mobile| Status: FAIL 
+Task: 1| Test Name: Product image for item #8 is displayed                 | DOM Id: product_9           | Browser: chrome        | Viewport: (500, 700)  | Device: Mobile| Status: PASS 
+Task: 1| Test Name: Name for item #8 is displayed                          | DOM Id: H3____402           | Browser: chrome        | Viewport: (500, 700)  | Device: Mobile| Status: PASS 
+Task: 1| Test Name: 'Add to favorites' icon for item #8 is displayed       | DOM Id: A__tooltip__407     | Browser: chrome        | Viewport: (500, 700)  | Device: Mobile| Status: FAIL 
+Task: 1| Test Name: 'Add to compare' icon for item #8 is displayed         | DOM Id: A__tooltip__411     | Browser: chrome        | Viewport: (500, 700)  | Device: Mobile| Status: FAIL 
+Task: 1| Test Name: 'Add to cart' icon for item #8 is displayed            | DOM Id: A__tooltip__415     | Browser: chrome        | Viewport: (500, 700)  | Device: Mobile| Status: FAIL 
+Task: 1| Test Name: 'QUICK LINKS' section is NOT displayed                 | DOM Id: collapse_1          | Browser: chrome        | Viewport: (500, 700)  | Device: Mobile| Status: FAIL 
+Task: 1| Test Name: 'CONTACTS' section is NOT displayed                    | DOM Id: collapse_3          | Browser: chrome        | Viewport: (500, 700)  | Device: Mobile| Status: PASS 
+Task: 1| Test Name: 'Your email' input field is NOT displayed              | DOM Id: email_newsletter    | Browser: chrome        | Viewport: (500, 700)  | Device: Mobile| Status: PASS 
+Task: 2| Test Name: Product image for item #0 is displayed                 | DOM Id: product_1           | Browser: chrome        | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 2| Test Name: Name for item #0 is displayed                          | DOM Id: H3____219           | Browser: chrome        | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 2| Test Name: 'Add to favorites' icon for item #0 is NOT displayed   | DOM Id: A__tooltip__225     | Browser: chrome        | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 2| Test Name: 'Add to compare' icon for item #0 is NOT displayed     | DOM Id: A__tooltip__229     | Browser: chrome        | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 2| Test Name: 'Add to cart' icon for item #0 is NOT displayed        | DOM Id: A__tooltip__233     | Browser: chrome        | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 2| Test Name: Product image for item #1 is displayed                 | DOM Id: product_8           | Browser: chrome        | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 2| Test Name: Name for item #1 is displayed                          | DOM Id: H3____242           | Browser: chrome        | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 2| Test Name: 'Add to favorites' icon for item #1 is NOT displayed   | DOM Id: A__tooltip__247     | Browser: chrome        | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 2| Test Name: 'Add to compare' icon for item #1 is NOT displayed     | DOM Id: A__tooltip__251     | Browser: chrome        | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 2| Test Name: 'Add to cart' icon for item #1 is NOT displayed        | DOM Id: A__tooltip__255     | Browser: chrome        | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 2| Test Name: Product image for item #2 is displayed                 | DOM Id: product_2           | Browser: chrome        | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 2| Test Name: Name for item #2 is displayed                          | DOM Id: H3____266           | Browser: chrome        | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 2| Test Name: 'Add to favorites' icon for item #2 is NOT displayed   | DOM Id: A__tooltip__272     | Browser: chrome        | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 2| Test Name: 'Add to compare' icon for item #2 is NOT displayed     | DOM Id: A__tooltip__276     | Browser: chrome        | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 2| Test Name: 'Add to cart' icon for item #2 is NOT displayed        | DOM Id: A__tooltip__280     | Browser: chrome        | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 2| Test Name: Product image for item #0 is displayed                 | DOM Id: product_1           | Browser: firefox       | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 2| Test Name: Name for item #0 is displayed                          | DOM Id: H3____219           | Browser: firefox       | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 2| Test Name: 'Add to favorites' icon for item #0 is NOT displayed   | DOM Id: A__tooltip__225     | Browser: firefox       | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 2| Test Name: 'Add to compare' icon for item #0 is NOT displayed     | DOM Id: A__tooltip__229     | Browser: firefox       | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 2| Test Name: 'Add to cart' icon for item #0 is NOT displayed        | DOM Id: A__tooltip__233     | Browser: firefox       | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 2| Test Name: Product image for item #1 is displayed                 | DOM Id: product_8           | Browser: firefox       | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 2| Test Name: Name for item #1 is displayed                          | DOM Id: H3____242           | Browser: firefox       | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 2| Test Name: 'Add to favorites' icon for item #1 is NOT displayed   | DOM Id: A__tooltip__247     | Browser: firefox       | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 2| Test Name: 'Add to compare' icon for item #1 is NOT displayed     | DOM Id: A__tooltip__251     | Browser: firefox       | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 2| Test Name: 'Add to cart' icon for item #1 is NOT displayed        | DOM Id: A__tooltip__255     | Browser: firefox       | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 2| Test Name: Product image for item #2 is displayed                 | DOM Id: product_2           | Browser: firefox       | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 2| Test Name: Name for item #2 is displayed                          | DOM Id: H3____266           | Browser: firefox       | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 2| Test Name: 'Add to favorites' icon for item #2 is NOT displayed   | DOM Id: A__tooltip__272     | Browser: firefox       | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 2| Test Name: 'Add to compare' icon for item #2 is NOT displayed     | DOM Id: A__tooltip__276     | Browser: firefox       | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 2| Test Name: 'Add to cart' icon for item #2 is NOT displayed        | DOM Id: A__tooltip__280     | Browser: firefox       | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 2| Test Name: Product image for item #0 is displayed                 | DOM Id: product_1           | Browser: MicrosoftEdge | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 2| Test Name: Name for item #0 is displayed                          | DOM Id: H3____219           | Browser: MicrosoftEdge | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 2| Test Name: 'Add to favorites' icon for item #0 is NOT displayed   | DOM Id: A__tooltip__225     | Browser: MicrosoftEdge | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 2| Test Name: 'Add to compare' icon for item #0 is NOT displayed     | DOM Id: A__tooltip__229     | Browser: MicrosoftEdge | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 2| Test Name: 'Add to cart' icon for item #0 is NOT displayed        | DOM Id: A__tooltip__233     | Browser: MicrosoftEdge | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 2| Test Name: Product image for item #1 is displayed                 | DOM Id: product_8           | Browser: MicrosoftEdge | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 2| Test Name: Name for item #1 is displayed                          | DOM Id: H3____242           | Browser: MicrosoftEdge | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 2| Test Name: 'Add to favorites' icon for item #1 is NOT displayed   | DOM Id: A__tooltip__247     | Browser: MicrosoftEdge | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 2| Test Name: 'Add to compare' icon for item #1 is NOT displayed     | DOM Id: A__tooltip__251     | Browser: MicrosoftEdge | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 2| Test Name: 'Add to cart' icon for item #1 is NOT displayed        | DOM Id: A__tooltip__255     | Browser: MicrosoftEdge | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 2| Test Name: Product image for item #2 is displayed                 | DOM Id: product_2           | Browser: MicrosoftEdge | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 2| Test Name: Name for item #2 is displayed                          | DOM Id: H3____266           | Browser: MicrosoftEdge | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 2| Test Name: 'Add to favorites' icon for item #2 is NOT displayed   | DOM Id: A__tooltip__272     | Browser: MicrosoftEdge | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 2| Test Name: 'Add to compare' icon for item #2 is NOT displayed     | DOM Id: A__tooltip__276     | Browser: MicrosoftEdge | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 2| Test Name: 'Add to cart' icon for item #2 is NOT displayed        | DOM Id: A__tooltip__280     | Browser: MicrosoftEdge | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 2| Test Name: Product image for item #0 is displayed                 | DOM Id: product_1           | Browser: chrome        | Viewport: (786, 700)  | Device: Tablet| Status: PASS 
+Task: 2| Test Name: Name for item #0 is displayed                          | DOM Id: H3____219           | Browser: chrome        | Viewport: (786, 700)  | Device: Tablet| Status: PASS 
+Task: 2| Test Name: 'Add to favorites' icon for item #0 is displayed       | DOM Id: A__tooltip__225     | Browser: chrome        | Viewport: (786, 700)  | Device: Tablet| Status: FAIL 
+Task: 2| Test Name: 'Add to compare' icon for item #0 is displayed         | DOM Id: A__tooltip__229     | Browser: chrome        | Viewport: (786, 700)  | Device: Tablet| Status: FAIL 
+Task: 2| Test Name: 'Add to cart' icon for item #0 is displayed            | DOM Id: A__tooltip__233     | Browser: chrome        | Viewport: (786, 700)  | Device: Tablet| Status: FAIL 
+Task: 2| Test Name: Product image for item #1 is displayed                 | DOM Id: product_8           | Browser: chrome        | Viewport: (786, 700)  | Device: Tablet| Status: PASS 
+Task: 2| Test Name: Name for item #1 is displayed                          | DOM Id: H3____242           | Browser: chrome        | Viewport: (786, 700)  | Device: Tablet| Status: PASS 
+Task: 2| Test Name: 'Add to favorites' icon for item #1 is displayed       | DOM Id: A__tooltip__247     | Browser: chrome        | Viewport: (786, 700)  | Device: Tablet| Status: FAIL 
+Task: 2| Test Name: 'Add to compare' icon for item #1 is displayed         | DOM Id: A__tooltip__251     | Browser: chrome        | Viewport: (786, 700)  | Device: Tablet| Status: FAIL 
+Task: 2| Test Name: 'Add to cart' icon for item #1 is displayed            | DOM Id: A__tooltip__255     | Browser: chrome        | Viewport: (786, 700)  | Device: Tablet| Status: FAIL 
+Task: 2| Test Name: Product image for item #2 is displayed                 | DOM Id: product_2           | Browser: chrome        | Viewport: (786, 700)  | Device: Tablet| Status: PASS 
+Task: 2| Test Name: Name for item #2 is displayed                          | DOM Id: H3____266           | Browser: chrome        | Viewport: (786, 700)  | Device: Tablet| Status: PASS 
+Task: 2| Test Name: 'Add to favorites' icon for item #2 is displayed       | DOM Id: A__tooltip__272     | Browser: chrome        | Viewport: (786, 700)  | Device: Tablet| Status: FAIL 
+Task: 2| Test Name: 'Add to compare' icon for item #2 is displayed         | DOM Id: A__tooltip__276     | Browser: chrome        | Viewport: (786, 700)  | Device: Tablet| Status: FAIL 
+Task: 2| Test Name: 'Add to cart' icon for item #2 is displayed            | DOM Id: A__tooltip__280     | Browser: chrome        | Viewport: (786, 700)  | Device: Tablet| Status: FAIL 
+Task: 2| Test Name: Product image for item #0 is displayed                 | DOM Id: product_1           | Browser: firefox       | Viewport: (786, 700)  | Device: Tablet| Status: PASS 
+Task: 2| Test Name: Name for item #0 is displayed                          | DOM Id: H3____219           | Browser: firefox       | Viewport: (786, 700)  | Device: Tablet| Status: PASS 
+Task: 2| Test Name: 'Add to favorites' icon for item #0 is displayed       | DOM Id: A__tooltip__225     | Browser: firefox       | Viewport: (786, 700)  | Device: Tablet| Status: FAIL 
+Task: 2| Test Name: 'Add to compare' icon for item #0 is displayed         | DOM Id: A__tooltip__229     | Browser: firefox       | Viewport: (786, 700)  | Device: Tablet| Status: FAIL 
+Task: 2| Test Name: 'Add to cart' icon for item #0 is displayed            | DOM Id: A__tooltip__233     | Browser: firefox       | Viewport: (786, 700)  | Device: Tablet| Status: FAIL 
+Task: 2| Test Name: Product image for item #1 is displayed                 | DOM Id: product_8           | Browser: firefox       | Viewport: (786, 700)  | Device: Tablet| Status: PASS 
+Task: 2| Test Name: Name for item #1 is displayed                          | DOM Id: H3____242           | Browser: firefox       | Viewport: (786, 700)  | Device: Tablet| Status: PASS 
+Task: 2| Test Name: 'Add to favorites' icon for item #1 is displayed       | DOM Id: A__tooltip__247     | Browser: firefox       | Viewport: (786, 700)  | Device: Tablet| Status: FAIL 
+Task: 2| Test Name: 'Add to compare' icon for item #1 is displayed         | DOM Id: A__tooltip__251     | Browser: firefox       | Viewport: (786, 700)  | Device: Tablet| Status: FAIL 
+Task: 2| Test Name: 'Add to cart' icon for item #1 is displayed            | DOM Id: A__tooltip__255     | Browser: firefox       | Viewport: (786, 700)  | Device: Tablet| Status: FAIL 
+Task: 2| Test Name: Product image for item #2 is displayed                 | DOM Id: product_2           | Browser: firefox       | Viewport: (786, 700)  | Device: Tablet| Status: PASS 
+Task: 2| Test Name: Name for item #2 is displayed                          | DOM Id: H3____266           | Browser: firefox       | Viewport: (786, 700)  | Device: Tablet| Status: PASS 
+Task: 2| Test Name: 'Add to favorites' icon for item #2 is displayed       | DOM Id: A__tooltip__272     | Browser: firefox       | Viewport: (786, 700)  | Device: Tablet| Status: FAIL 
+Task: 2| Test Name: 'Add to compare' icon for item #2 is displayed         | DOM Id: A__tooltip__276     | Browser: firefox       | Viewport: (786, 700)  | Device: Tablet| Status: FAIL 
+Task: 2| Test Name: 'Add to cart' icon for item #2 is displayed            | DOM Id: A__tooltip__280     | Browser: firefox       | Viewport: (786, 700)  | Device: Tablet| Status: FAIL 
+Task: 2| Test Name: Product image for item #0 is displayed                 | DOM Id: product_1           | Browser: MicrosoftEdge | Viewport: (786, 700)  | Device: Tablet| Status: PASS 
+Task: 2| Test Name: Name for item #0 is displayed                          | DOM Id: H3____219           | Browser: MicrosoftEdge | Viewport: (786, 700)  | Device: Tablet| Status: PASS 
+Task: 2| Test Name: 'Add to favorites' icon for item #0 is displayed       | DOM Id: A__tooltip__225     | Browser: MicrosoftEdge | Viewport: (786, 700)  | Device: Tablet| Status: FAIL 
+Task: 2| Test Name: 'Add to compare' icon for item #0 is displayed         | DOM Id: A__tooltip__229     | Browser: MicrosoftEdge | Viewport: (786, 700)  | Device: Tablet| Status: FAIL 
+Task: 2| Test Name: 'Add to cart' icon for item #0 is displayed            | DOM Id: A__tooltip__233     | Browser: MicrosoftEdge | Viewport: (786, 700)  | Device: Tablet| Status: FAIL 
+Task: 2| Test Name: Product image for item #1 is displayed                 | DOM Id: product_8           | Browser: MicrosoftEdge | Viewport: (786, 700)  | Device: Tablet| Status: PASS 
+Task: 2| Test Name: Name for item #1 is displayed                          | DOM Id: H3____242           | Browser: MicrosoftEdge | Viewport: (786, 700)  | Device: Tablet| Status: PASS 
+Task: 2| Test Name: 'Add to favorites' icon for item #1 is displayed       | DOM Id: A__tooltip__247     | Browser: MicrosoftEdge | Viewport: (786, 700)  | Device: Tablet| Status: FAIL 
+Task: 2| Test Name: 'Add to compare' icon for item #1 is displayed         | DOM Id: A__tooltip__251     | Browser: MicrosoftEdge | Viewport: (786, 700)  | Device: Tablet| Status: FAIL 
+Task: 2| Test Name: 'Add to cart' icon for item #1 is displayed            | DOM Id: A__tooltip__255     | Browser: MicrosoftEdge | Viewport: (786, 700)  | Device: Tablet| Status: FAIL 
+Task: 2| Test Name: Product image for item #2 is displayed                 | DOM Id: product_2           | Browser: MicrosoftEdge | Viewport: (786, 700)  | Device: Tablet| Status: PASS 
+Task: 2| Test Name: Name for item #2 is displayed                          | DOM Id: H3____266           | Browser: MicrosoftEdge | Viewport: (786, 700)  | Device: Tablet| Status: PASS 
+Task: 2| Test Name: 'Add to favorites' icon for item #2 is displayed       | DOM Id: A__tooltip__272     | Browser: MicrosoftEdge | Viewport: (786, 700)  | Device: Tablet| Status: FAIL 
+Task: 2| Test Name: 'Add to compare' icon for item #2 is displayed         | DOM Id: A__tooltip__276     | Browser: MicrosoftEdge | Viewport: (786, 700)  | Device: Tablet| Status: FAIL 
+Task: 2| Test Name: 'Add to cart' icon for item #2 is displayed            | DOM Id: A__tooltip__280     | Browser: MicrosoftEdge | Viewport: (786, 700)  | Device: Tablet| Status: FAIL 
+Task: 2| Test Name: Product image for item #0 is displayed                 | DOM Id: product_1           | Browser: chrome        | Viewport: (500, 700)  | Device: Mobile| Status: PASS 
+Task: 2| Test Name: Name for item #0 is displayed                          | DOM Id: H3____219           | Browser: chrome        | Viewport: (500, 700)  | Device: Mobile| Status: PASS 
+Task: 2| Test Name: 'Add to favorites' icon for item #0 is displayed       | DOM Id: A__tooltip__225     | Browser: chrome        | Viewport: (500, 700)  | Device: Mobile| Status: FAIL 
+Task: 2| Test Name: 'Add to compare' icon for item #0 is displayed         | DOM Id: A__tooltip__229     | Browser: chrome        | Viewport: (500, 700)  | Device: Mobile| Status: FAIL 
+Task: 2| Test Name: 'Add to cart' icon for item #0 is displayed            | DOM Id: A__tooltip__233     | Browser: chrome        | Viewport: (500, 700)  | Device: Mobile| Status: FAIL 
+Task: 2| Test Name: Product image for item #1 is displayed                 | DOM Id: product_8           | Browser: chrome        | Viewport: (500, 700)  | Device: Mobile| Status: PASS 
+Task: 2| Test Name: Name for item #1 is displayed                          | DOM Id: H3____242           | Browser: chrome        | Viewport: (500, 700)  | Device: Mobile| Status: PASS 
+Task: 2| Test Name: 'Add to favorites' icon for item #1 is displayed       | DOM Id: A__tooltip__247     | Browser: chrome        | Viewport: (500, 700)  | Device: Mobile| Status: FAIL 
+Task: 2| Test Name: 'Add to compare' icon for item #1 is displayed         | DOM Id: A__tooltip__251     | Browser: chrome        | Viewport: (500, 700)  | Device: Mobile| Status: FAIL 
+Task: 2| Test Name: 'Add to cart' icon for item #1 is displayed            | DOM Id: A__tooltip__255     | Browser: chrome        | Viewport: (500, 700)  | Device: Mobile| Status: FAIL 
+Task: 2| Test Name: Product image for item #2 is displayed                 | DOM Id: product_2           | Browser: chrome        | Viewport: (500, 700)  | Device: Mobile| Status: PASS 
+Task: 2| Test Name: Name for item #2 is displayed                          | DOM Id: H3____266           | Browser: chrome        | Viewport: (500, 700)  | Device: Mobile| Status: PASS 
+Task: 2| Test Name: 'Add to favorites' icon for item #2 is displayed       | DOM Id: A__tooltip__272     | Browser: chrome        | Viewport: (500, 700)  | Device: Mobile| Status: FAIL 
+Task: 2| Test Name: 'Add to compare' icon for item #2 is displayed         | DOM Id: A__tooltip__276     | Browser: chrome        | Viewport: (500, 700)  | Device: Mobile| Status: FAIL 
+Task: 2| Test Name: 'Add to cart' icon for item #2 is displayed            | DOM Id: A__tooltip__280     | Browser: chrome        | Viewport: (500, 700)  | Device: Mobile| Status: FAIL 
+Task: 3| Test Name: Shoe image is displayed                                | DOM Id: shoe_img            | Browser: chrome        | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 3| Test Name: 'New price' label is displayed                         | DOM Id: new_price           | Browser: chrome        | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 3| Test Name: Shoe image is displayed                                | DOM Id: shoe_img            | Browser: firefox       | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 3| Test Name: 'New price' label is displayed                         | DOM Id: new_price           | Browser: firefox       | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 3| Test Name: Shoe image is displayed                                | DOM Id: shoe_img            | Browser: MicrosoftEdge | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 3| Test Name: 'New price' label is displayed                         | DOM Id: new_price           | Browser: MicrosoftEdge | Viewport: (1200, 700) | Device: Laptop| Status: PASS 
+Task: 3| Test Name: Shoe image is displayed                                | DOM Id: shoe_img            | Browser: chrome        | Viewport: (786, 700)  | Device: Tablet| Status: PASS 
+Task: 3| Test Name: 'New price' label is displayed                         | DOM Id: new_price           | Browser: chrome        | Viewport: (786, 700)  | Device: Tablet| Status: PASS 
+Task: 3| Test Name: Shoe image is displayed                                | DOM Id: shoe_img            | Browser: firefox       | Viewport: (786, 700)  | Device: Tablet| Status: PASS 
+Task: 3| Test Name: 'New price' label is displayed                         | DOM Id: new_price           | Browser: firefox       | Viewport: (786, 700)  | Device: Tablet| Status: PASS 
+Task: 3| Test Name: Shoe image is displayed                                | DOM Id: shoe_img            | Browser: MicrosoftEdge | Viewport: (786, 700)  | Device: Tablet| Status: PASS 
+Task: 3| Test Name: 'New price' label is displayed                         | DOM Id: new_price           | Browser: MicrosoftEdge | Viewport: (786, 700)  | Device: Tablet| Status: PASS 
+Task: 3| Test Name: Shoe image is displayed                                | DOM Id: shoe_img            | Browser: chrome        | Viewport: (500, 700)  | Device: Mobile| Status: PASS 
+Task: 3| Test Name: 'New price' label is displayed                         | DOM Id: new_price           | Browser: chrome        | Viewport: (500, 700)  | Device: Mobile| Status: PASS 
